@@ -112,7 +112,7 @@ This project demonstrates how structured data analysis can help financial instit
 
 ![Dashboard Preview](dashboard_preview.png)
 
-## 📂 Download Dashboard
+##  Download Dashboard
 
 You can download the full interactive Excel dashboard here:
 
