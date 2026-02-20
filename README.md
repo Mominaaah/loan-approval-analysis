@@ -116,7 +116,7 @@ This project demonstrates how structured data analysis can help financial instit
 
 You can download the full interactive Excel dashboard here:
 
-[Download Dashboard](dashboard/Loan_Approval_Risk_Dashboard.xlsx)
+[Download Dashboard](Dashboard/Loan_Approval_Risk_Dashboard.xlsx)
 
 ##  Conclusion
 
