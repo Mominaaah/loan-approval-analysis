@@ -1,9 +1,5 @@
 #  Loan Approval Risk Analysis (SQL + Excel Dashboard)
 
-## 📷 Dashboard Preview
-
-![Dashboard Preview](images/dashboard_preview.png)
-
 ##  Project Overview
 
 This project analyzes loan application data to identify key factors influencing loan approval decisions.
@@ -111,6 +107,16 @@ This project demonstrates how structured data analysis can help financial instit
 - Improve approval strategies
 - Optimize risk-based lending
 - Support data-driven decision-making
+
+## Dashboard Preview
+
+![Dashboard Preview](dashboard_preview.png)
+
+## 📂 Download Dashboard
+
+You can download the full interactive Excel dashboard here:
+
+[Download Dashboard](dashboard/Loan_Approval_Risk_Dashboard.xlsx)
 
 ##  Conclusion
 
