@@ -1,7 +1,5 @@
 #  Loan Approval Risk Analysis (SQL + Excel Dashboard)
-
 ##  Project Overview
-
 This project analyzes loan application data to identify key factors influencing loan approval decisions.
 
 The analysis was conducted using **PostgreSQL for data exploration and business analysis**, followed by the creation of an **interactive Excel dashboard** to visualize risk patterns and segment performance.
@@ -116,7 +114,7 @@ This project demonstrates how structured data analysis can help financial instit
 
 You can download the full interactive Excel dashboard here:
 
-[Download Dashboard](Dashboard/Loan_Approval_Risk_Dashboard.xlsx)
+[Download Dashboard](Loan_Approval_Risk_Dashboard.xlsx)
 
 ##  Conclusion
 
